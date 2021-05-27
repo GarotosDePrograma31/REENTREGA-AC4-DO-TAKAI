@@ -1,0 +1,7 @@
+﻿2. (7, I); (8, G)
+
+
+3. Deve-se usar a fila de prioridades por ser um simulador. Portanto o voo será retirado com o menor time-stamp e assim consecutivamente.
+
+
+4. Pode estar armazenada na raiz da árvore.
