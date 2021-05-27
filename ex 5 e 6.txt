@@ -1,0 +1,6 @@
+﻿5. Sim, pois para uma árvore ser um heap, ela deve ser uma árvore binária completa. Então a árvore T deve ser considerada um heap por ser completa.
+
+
+
+
+6. Não se considera pois, sem criar o filho da esquerda antes, não será possível ter o filho da direita.
